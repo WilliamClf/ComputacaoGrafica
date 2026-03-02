@@ -17,8 +17,8 @@ altura = 600
 tamanho_fonte = 50
 fps = 512
 
-texto_str = 'GEROMEL'
-texto2_str = 'KANNEMMAN'
+texto_str = 'William'
+texto2_str = 'Linhares'
 
 def gerar_velocidade():
     while True:
